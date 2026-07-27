@@ -8,7 +8,7 @@
   "server": {
     "ip": "Bucknell.aternos.me",
     "port": 45155,
-    "version": "1.12.1"
+    "version": "1.21.1"
   },
   "position": {
     "enabled": true,
